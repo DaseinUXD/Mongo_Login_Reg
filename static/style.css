@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width: 960px;
+    margin: 0 auto;
+    font-size: 18px;
+}
+
+.button{
+    padding: 10px 15px;
+    background-color: blue;
+    color: #fff;
+    font-weight: 1200;
+    position: relative;
+    left: 250px;
+}
